@@ -1,4 +1,4 @@
-Hi, I’m @melfrink
+Hi, I’m @melfrink,
 Currently learning Artificial Intelligence at Utrecht University
 
 <!---
